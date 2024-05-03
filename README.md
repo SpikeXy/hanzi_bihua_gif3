@@ -6,4 +6,4 @@
 
 [hanzi_bihua_gif3](https://github.com/SpikeXy/hanzi_bihua_gif3)
 
-![01][https://github.com/SpikeXy/hanzi_bihua_gif3/blob/main/gif/%E2%BA%80.gif]
+![01](https://github.com/SpikeXy/hanzi_bihua_gif3/blob/main/gif/%E2%BA%80.gif)
